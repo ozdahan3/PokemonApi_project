@@ -1,0 +1,205 @@
+[
+    {
+        "name": "pidgeot",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "name": "rattata",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "name": "ivysaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "name": "raticate",
+        "types": [
+            "normal"
+        ],
+        "abilities": [
+            "run-away",
+            "guts",
+            "hustle"
+        ]
+    },
+    {
+        "name": "wartortle",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "name": "weedle",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "name": "blastoise",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "name": "charmeleon",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "name": "charmander",
+        "types": [
+            "fire"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    },
+    {
+        "name": "kakuna",
+        "types": [
+            "bug",
+            "poison"
+        ],
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "name": "pidgey",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "name": "metapod",
+        "types": [
+            "bug"
+        ],
+        "abilities": [
+            "shed-skin"
+        ]
+    },
+    {
+        "name": "pidgeotto",
+        "types": [
+            "normal",
+            "flying"
+        ],
+        "abilities": [
+            "keen-eye",
+            "tangled-feet",
+            "big-pecks"
+        ]
+    },
+    {
+        "name": "caterpie",
+        "types": [
+            "bug"
+        ],
+        "abilities": [
+            "shield-dust",
+            "run-away"
+        ]
+    },
+    {
+        "name": "squirtle",
+        "types": [
+            "water"
+        ],
+        "abilities": [
+            "torrent",
+            "rain-dish"
+        ]
+    },
+    {
+        "name": "butterfree",
+        "types": [
+            "bug",
+            "flying"
+        ],
+        "abilities": [
+            "compound-eyes",
+            "tinted-lens"
+        ]
+    },
+    {
+        "name": "venusaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "name": "bulbasaur",
+        "types": [
+            "grass",
+            "poison"
+        ],
+        "abilities": [
+            "overgrow",
+            "chlorophyll"
+        ]
+    },
+    {
+        "name": "charizard",
+        "types": [
+            "fire",
+            "flying"
+        ],
+        "abilities": [
+            "blaze",
+            "solar-power"
+        ]
+    }
+]
