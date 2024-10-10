@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+
+myenv/
+venv/
+env/
+
+.DS_Store
+Pokemon_venv/
+
+.vscode/
+.idea/
+*.pyc
+*.pem
