@@ -190,16 +190,5 @@
             "overgrow",
             "chlorophyll"
         ]
-    },
-    {
-        "name": "charizard",
-        "types": [
-            "fire",
-            "flying"
-        ],
-        "abilities": [
-            "blaze",
-            "solar-power"
-        ]
     }
 ]
